@@ -1,0 +1,11 @@
+# Core Deep Learning & Computer Vision
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# Web Application Framework
+streamlit>=1.30.0
+
+# Testing Framework
+pytest>=7.0.0
